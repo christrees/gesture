@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gesture/static/css/main.d1b05096.chunk.css",
+    "main.js": "/gesture/static/js/main.6db3bb26.chunk.js",
+    "main.js.map": "/gesture/static/js/main.6db3bb26.chunk.js.map",
+    "runtime-main.js": "/gesture/static/js/runtime-main.2efaf1b5.js",
+    "runtime-main.js.map": "/gesture/static/js/runtime-main.2efaf1b5.js.map",
+    "static/js/2.f13f71f9.chunk.js": "/gesture/static/js/2.f13f71f9.chunk.js",
+    "static/js/2.f13f71f9.chunk.js.map": "/gesture/static/js/2.f13f71f9.chunk.js.map",
+    "index.html": "/gesture/index.html",
+    "precache-manifest.91a832211f499fd3eceba3807ef0abd1.js": "/gesture/precache-manifest.91a832211f499fd3eceba3807ef0abd1.js",
+    "service-worker.js": "/gesture/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/gesture/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f13f71f9.chunk.js.LICENSE.txt": "/gesture/static/js/2.f13f71f9.chunk.js.LICENSE.txt",
+    "static/media/thumbs_up.png": "/gesture/static/media/thumbs_up.1cfa24a5.png",
+    "static/media/victory.png": "/gesture/static/media/victory.6db44b04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2efaf1b5.js",
+    "static/js/2.f13f71f9.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6db3bb26.chunk.js"
+  ]
+}
